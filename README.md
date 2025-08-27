@@ -1,7 +1,6 @@
 html code to create figures in  
 
-**Generative AI Tools for Quantitative Research: A Practical Guide
-**
+**Generative AI Tools for Quantitative Research: A Practical Guide**
 David Bann and Liam Wright
 
 Figure 1. AI enables data analysis at a higher level of abstraction – using plain English prompts.
